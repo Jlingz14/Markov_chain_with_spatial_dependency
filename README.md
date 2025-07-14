@@ -10,5 +10,21 @@ This research was carried out with notebook Python and R :
 3) Residence time tests were then performed in “SMM_spatial.Rmd”. And the statistical spatial dependency test in “Moran'I Test.ipynb”, a Python notebook.
 4) The semi-Markovian model with simulation has been coded in “Markov_spatial.ipynb”; and Bayesian inference in “Bayesian_inference.Rmd”.
 
+# Citation 
+@article{10.1371/journal.pone.0326264,
+    doi = {10.1371/journal.pone.0326264},
+    author = {Raherinirina, Angelo AND Tsilefa, Stefana Tabera AND Nirilanto, Tsidikaina AND Manou-Abi, Solym M.},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Bayesian inference of a spatially dependent semi-Markovian model with application to Madagascar Covid’19 data},
+    year = {2025},
+    month = {07},
+    volume = {20},
+    url = {https://doi.org/10.1371/journal.pone.0326264},
+    pages = {1-25},
+    number = {7}
+    }
+
+
 # Help
 Please direct all questions to stefanatsilefa@gmail.com
